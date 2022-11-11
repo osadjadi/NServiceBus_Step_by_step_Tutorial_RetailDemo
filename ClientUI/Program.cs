@@ -1,6 +1,6 @@
 ﻿using System;
 using NServiceBus;
-using Sales.Messages;
+using Messages.Commands;
 using NServiceBus.Logging;
 using System.Threading.Tasks;
 
